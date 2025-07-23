@@ -21,5 +21,11 @@ An intuitive and interactive Expense Tracker built using **HTML**, **CSS**, **Ja
 - **Logic**: JavaScript (Vanilla JS)
 - **No backend/database** – all data is managed on the client side (local session)
 
-## 📂 Project Structure
+
+## 🎯 How to Use
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/Expense-Tracker.git
+
 
