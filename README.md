@@ -1,4 +1,4 @@
-# Expenses-Tracker
+# Expenses Tracker
 link- https://beamish-dodol-026356.netlify.app/
 # 💰 Expense Tracker Web App
 
